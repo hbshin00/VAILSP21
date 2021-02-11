@@ -6,3 +6,5 @@ Day 1 (8 Feb): I look forward to developing a more robust (well, any) GitHub por
 
 Day 2 (9 Feb): The difference between supervised and unsupervised learning is that supervised learning consists of giving known data (that is, the data and the outcomes are already known) to the machine from which to learn and unsupervised learning consists of giving data without known outcomes to the machine from which to derive patterns. 
 Scikit-learn does not have the power to visualize data Graphviz/Pandas/etc. because it is built for machine learning/data modelling; the assumption is that it can derive data visualization functionalities from other libraries (as in the aforementioned). 
+
+Day 3 (10 Feb): Tensors are basically multidimensional arrays. In machine learning, ANN's operate on these arrays (data); that is, the tensors, which store data, are transformed through the ANN's.
