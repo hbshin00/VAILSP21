@@ -1,13 +1,11 @@
 # VAILSP21
 This repository is for the SureStart Virtual Artificial Intelligence Learning (VAIL) Program in Spring 2021. It consists of some of the assignments throughout the program.
 
-
-
-/n
-/n
-/n
-/n
-/n
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Responses:
 
